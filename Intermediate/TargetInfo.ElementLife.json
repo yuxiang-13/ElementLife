@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ElementLife",
+			"Path": "D:\\project\\ElementLife\\Source\\ElementLife.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ElementLifeEditor",
+			"Path": "D:\\project\\ElementLife\\Source\\ElementLifeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

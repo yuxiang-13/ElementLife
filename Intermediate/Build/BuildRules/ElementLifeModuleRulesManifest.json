@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"D:\\project\\ElementLife\\Source\\ElementLife\\ElementLife.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
+		"D:\\project\\ElementLife\\Source\\ElementLife.Target.cs",
+		"D:\\project\\ElementLife\\Source\\ElementLifeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}
