@@ -64,21 +64,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb1c465-2adc-4390-b176-ba3c1758636e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/LyraGameplayTags.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/LyraGameplayTags.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-1A5BDBB0485065B7FB65C690A4A1C45C/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.13-03.27.05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.13-12.38.48.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameModes/LifeUserFacingExperienceDefinition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameModes/LifeUserFacingExperienceDefinition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/关键步骤Icon/QQ截图20220813125114.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementLife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementLife/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRulesManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/ElementLifeEditor.target" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/ElementLifeEditor.target" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/DependencyCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/EngineMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/EngineMetadata.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/Makefile.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/TargetMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/TargetMetadata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/ElementLife.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/ElementLife.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ElementLife/ElementLife.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ElementLife/ElementLife.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ElementLife/ElementLifeCharacter.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ElementLife/ElementLifeCharacter.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ElementLife/ElementLifeGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ElementLife/ElementLifeGameMode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/ModularGameplayActors/Intermediate/Build/Win64/UnrealEditor/Inc/ModularGameplayActors/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/ModularGameplayActors/Intermediate/Build/Win64/UnrealEditor/Inc/ModularGameplayActors/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22079,6 +22084,7 @@
       <workItem from="1660355976549" duration="1000" />
       <workItem from="1660356032361" duration="1809000" />
       <workItem from="1660358352423" duration="908000" />
+      <workItem from="1660360401721" duration="2366000" />
     </task>
     <servers />
   </component>
