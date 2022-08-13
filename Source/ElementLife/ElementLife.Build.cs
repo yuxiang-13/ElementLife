@@ -9,6 +9,15 @@ public class ElementLife : ModuleRules
 		PrivateDependencyModuleNames.AddRange(new string[] { "GameplayAbilities", "ModularGameplayActors", "CommonUser" });
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay" });
+		PublicDependencyModuleNames.AddRange(new string[]
+        {
+            "Core",
+            "CoreUObject", 
+            "Engine", 
+            "InputCore", 
+            "UMG",
+            "GameplayTasks",
+            "HeadMountedDisplay"
+        });
 	}
 }

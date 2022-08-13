@@ -33,6 +33,18 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/CommonUser/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CommonUser/Binaries/Win64/UnrealEditor-CommonUser.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CommonUser/Binaries/Win64/UnrealEditor-CommonUser.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -5652,6 +5664,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/ElementLife.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CommonUser/CommonUser.uplugin",
 			"Type": "UFS"
 		},
 		{

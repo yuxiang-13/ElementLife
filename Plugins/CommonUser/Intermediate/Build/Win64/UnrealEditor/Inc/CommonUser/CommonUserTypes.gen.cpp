@@ -420,19 +420,19 @@ void EmptyLinkFunctionForGeneratedCodeCommonUserTypes() {}
 		}
 		return Z_Registration_Info_UEnum_ECommonUserPrivilegeResult.InnerSingleton;
 	}
-	struct Z_CompiledInDeferFile_FID_LyraTemProject_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics
+	struct Z_CompiledInDeferFile_FID_ElementLife_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LyraTemProject_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ElementLife_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics::EnumInfo[] = {
 		{ ECommonUserOnlineContext_StaticEnum, TEXT("ECommonUserOnlineContext"), &Z_Registration_Info_UEnum_ECommonUserOnlineContext, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2680643188U) },
 		{ ECommonUserInitializationState_StaticEnum, TEXT("ECommonUserInitializationState"), &Z_Registration_Info_UEnum_ECommonUserInitializationState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2411757713U) },
 		{ ECommonUserPrivilege_StaticEnum, TEXT("ECommonUserPrivilege"), &Z_Registration_Info_UEnum_ECommonUserPrivilege, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3520582230U) },
 		{ ECommonUserAvailability_StaticEnum, TEXT("ECommonUserAvailability"), &Z_Registration_Info_UEnum_ECommonUserAvailability, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 152116938U) },
 		{ ECommonUserPrivilegeResult_StaticEnum, TEXT("ECommonUserPrivilegeResult"), &Z_Registration_Info_UEnum_ECommonUserPrivilegeResult, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1617272912U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LyraTemProject_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_468864327(TEXT("/Script/CommonUser"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ElementLife_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_468864327(TEXT("/Script/CommonUser"),
 		nullptr, 0,
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_LyraTemProject_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LyraTemProject_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics::EnumInfo));
+		Z_CompiledInDeferFile_FID_ElementLife_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ElementLife_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

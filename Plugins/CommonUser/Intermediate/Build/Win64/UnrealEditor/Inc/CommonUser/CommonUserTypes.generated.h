@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define COMMONUSER_CommonUserTypes_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LyraTemProject_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h
+#define CURRENT_FILE_ID FID_ElementLife_Plugins_CommonUser_Source_CommonUser_Public_CommonUserTypes_h
 
 
 #define FOREACH_ENUM_ECOMMONUSERONLINECONTEXT(op) \

@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\source\\elementlife\\gamemodes\\lifeuserfacingexperiencedefinition.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\gamemodes\\lifeuserfacingexperiencedefinition.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeuserfacingexperiencedefinition.generated.h",
+            "d:\\project\\elementlife\\plugins\\commonuser\\source\\commonuser\\public\\commonsessionsubsystem.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinesessionnames.h",
+            "d:\\project\\elementlife\\plugins\\commonuser\\intermediate\\build\\win64\\unrealeditor\\inc\\commonuser\\commonsessionsubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

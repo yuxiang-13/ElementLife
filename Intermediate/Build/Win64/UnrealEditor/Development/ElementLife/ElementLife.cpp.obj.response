@@ -263,6 +263,15 @@ D:\project\ElementLife\Source\ElementLife\ElementLife.cpp
 /I ..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplay
 /I ..\Plugins\Experimental\ModularGameplay\Source
 /I ..\Plugins\Experimental\ModularGameplay\Source\ModularGameplay\Public
+/I D:\project\ElementLife\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUser
+/I D:\project\ElementLife\Plugins\CommonUser\Source
+/I D:\project\ElementLife\Plugins\CommonUser\Source\CommonUser\Public
+/I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystem
+/I ..\Plugins\Online\OnlineSubsystem
+/I ..\Plugins\Online\OnlineSubsystem\Source
+/I ..\Plugins\Online\OnlineSubsystem\Source\Public
+/I ..\Plugins\Online\OnlineBase
+/I ..\Plugins\Online\OnlineBase\Source\Public
 /I D:\project\ElementLife\Intermediate\Build\Win64\UnrealEditor\Inc\ElementLife
 /I D:\project\ElementLife\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
