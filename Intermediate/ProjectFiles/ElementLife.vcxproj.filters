@@ -1088,6 +1088,12 @@
     <None Include="..\..\Plugins\Developer\RiderLink\Resources\Icon128.png">
       <Filter>Plugins\Developer\RiderLink\Resources</Filter>
     </None>
+    <Filter Include="Plugins\ModularGameplayActors">
+      <UniqueIdentifier>{E25759FB-664C-355F-8250-88BB112CE4AF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ModularGameplayActors\ModularGameplayActors.uplugin">
+      <Filter>Plugins\ModularGameplayActors</Filter>
+    </None>
     <Filter Include="Plugins\Developer\RiderLink\Source\RiderBlueprint">
       <UniqueIdentifier>{D2AC7BF7-ED63-3A02-8780-2282F36BF8D7}</UniqueIdentifier>
     </Filter>
@@ -1388,6 +1394,66 @@
     <ClInclude Include="..\..\Plugins\Developer\RiderLink\Source\RiderShaderInfoDump\RiderShaderInfoDump.h">
       <Filter>Plugins\Developer\RiderLink\Source\RiderShaderInfoDump</Filter>
     </ClInclude>
+    <Filter Include="Plugins\ModularGameplayActors\Source">
+      <UniqueIdentifier>{D2A7373A-5074-3627-B395-44D580887335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ModularGameplayActors\Source\ModularGameplayActors">
+      <UniqueIdentifier>{BB71DF83-D340-3BFB-8444-4117EB3288C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\ModularGameplayActors.Build.cs">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors</Filter>
+    </None>
+    <Filter Include="Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private">
+      <UniqueIdentifier>{B8B90E7E-AD5A-3B0C-A684-BFAC92E94C5B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularAIController.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularCharacter.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularGameMode.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularGameplayActorsModule.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularGameState.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularPawn.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularPlayerController.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private\ModularPlayerState.cpp">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public">
+      <UniqueIdentifier>{2CE162FB-CFBE-3D0B-A1F3-D84F43D64075}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularAIController.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularCharacter.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularGameMode.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularGameState.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularPawn.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularPlayerController.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularPlayerState.h">
+      <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
+    </ClInclude>
     <Filter Include="Source\ElementLife">
       <UniqueIdentifier>{B7A34996-22FC-3602-8BF4-C96D285A8097}</UniqueIdentifier>
     </Filter>
@@ -1398,12 +1464,6 @@
       <Filter>Source\ElementLife</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ElementLife\ElementLife.h">
-      <Filter>Source\ElementLife</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\ElementLife\ElementLifeCharacter.cpp">
-      <Filter>Source\ElementLife</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\ElementLifeCharacter.h">
       <Filter>Source\ElementLife</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\ElementLife\ElementLifeGameMode.cpp">
