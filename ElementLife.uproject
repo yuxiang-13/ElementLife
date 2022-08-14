@@ -178,6 +178,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "UIExtension",
+			"Enabled": true
+		},
+		{
 			"Name": "SteamSockets",
 			"Enabled": true
 		},

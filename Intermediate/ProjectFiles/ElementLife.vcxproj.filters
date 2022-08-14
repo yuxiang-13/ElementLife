@@ -206,6 +206,12 @@
     <None Include="..\..\Plugins\ModularGameplayActors\ModularGameplayActors.uplugin">
       <Filter>Plugins\ModularGameplayActors</Filter>
     </None>
+    <Filter Include="Plugins\UIExtension">
+      <UniqueIdentifier>{3E763937-0343-3397-B855-33D0F0C06D84}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UIExtension\UIExtension.uplugin">
+      <Filter>Plugins\UIExtension</Filter>
+    </None>
     <Filter Include="Plugins\CommonLoadingScreen\Source">
       <UniqueIdentifier>{FF66C1B8-4C61-36F7-AE5F-6D6DE98A5411}</UniqueIdentifier>
     </Filter>
@@ -1766,6 +1772,45 @@
     <ClInclude Include="..\..\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public\ModularPlayerState.h">
       <Filter>Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public</Filter>
     </ClInclude>
+    <Filter Include="Plugins\UIExtension\Source">
+      <UniqueIdentifier>{7E1E7DD8-065F-3738-A245-78BD7BF6C2B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UIExtension\Source\UIExtension.Build.cs">
+      <Filter>Plugins\UIExtension\Source</Filter>
+    </None>
+    <Filter Include="Plugins\UIExtension\Source\Private">
+      <UniqueIdentifier>{AFA517AA-1E6A-3390-87E3-9BF368D4A878}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UIExtension\Source\Private\LogUIExtension.cpp">
+      <Filter>Plugins\UIExtension\Source\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UIExtension\Source\Private\LogUIExtension.h">
+      <Filter>Plugins\UIExtension\Source\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UIExtension\Source\Private\UIExtensionModule.cpp">
+      <Filter>Plugins\UIExtension\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UIExtension\Source\Private\UIExtensionSystem.cpp">
+      <Filter>Plugins\UIExtension\Source\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UIExtension\Source\Private\Widgets">
+      <UniqueIdentifier>{5288CCC3-2E87-325E-AA36-F31BFA440166}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UIExtension\Source\Private\Widgets\UIExtensionPointWidget.cpp">
+      <Filter>Plugins\UIExtension\Source\Private\Widgets</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UIExtension\Source\Public">
+      <UniqueIdentifier>{83E81348-D365-398F-81B5-B4A94BD99AC8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UIExtension\Source\Public\UIExtensionSystem.h">
+      <Filter>Plugins\UIExtension\Source\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UIExtension\Source\Public\Widgets">
+      <UniqueIdentifier>{07F2094B-4AD1-3D22-B36B-705DA223814C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UIExtension\Source\Public\Widgets\UIExtensionPointWidget.h">
+      <Filter>Plugins\UIExtension\Source\Public\Widgets</Filter>
+    </ClInclude>
     <Filter Include="Source\ElementLife">
       <UniqueIdentifier>{B7A34996-22FC-3602-8BF4-C96D285A8097}</UniqueIdentifier>
     </Filter>
@@ -2057,6 +2102,63 @@
     <ClInclude Include="..\..\Source\ElementLife\Character\LifePawnExtensionComponent.h">
       <Filter>Source\ElementLife\Character</Filter>
     </ClInclude>
+    <Filter Include="Source\ElementLife\GameFeatures">
+      <UniqueIdentifier>{14682144-ACFD-3F26-958D-6463923CE87E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddAbilities.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddAbilities.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddGameplayCuePath.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddGameplayCuePath.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddInputBinding.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddInputBinding.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddInputConfig.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddInputConfig.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddInputContextMapping.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddInputContextMapping.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddWidget.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_AddWidget.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_SplitscreenConfig.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_SplitscreenConfig.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_WorldActionBase.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\GameFeatureAction_WorldActionBase.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameFeatures\LifeGameFeaturePolicy.cpp">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameFeatures\LifeGameFeaturePolicy.h">
+      <Filter>Source\ElementLife\GameFeatures</Filter>
+    </ClInclude>
     <Filter Include="Source\ElementLife\GameModes">
       <UniqueIdentifier>{DCAA4FCC-A6E2-3BE1-A9B6-D039CF42DFC8}</UniqueIdentifier>
     </Filter>
@@ -2101,6 +2203,27 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeUserFacingExperienceDefinition.h">
       <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Hotfix">
+      <UniqueIdentifier>{8D8914B1-BC5B-3483-87E0-B80135CBEA6C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Hotfix\LifeHotfixManager.cpp">
+      <Filter>Source\ElementLife\Hotfix</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Hotfix\LifeHotfixManager.h">
+      <Filter>Source\ElementLife\Hotfix</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Hotfix\LifeRuntimeOptions.cpp">
+      <Filter>Source\ElementLife\Hotfix</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Hotfix\LifeRuntimeOptions.h">
+      <Filter>Source\ElementLife\Hotfix</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Hotfix\LifeTextHotfixConfig.cpp">
+      <Filter>Source\ElementLife\Hotfix</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Hotfix\LifeTextHotfixConfig.h">
+      <Filter>Source\ElementLife\Hotfix</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\Input">
       <UniqueIdentifier>{D1BB0E0D-9F66-397D-AE84-C89E1AEE0CF7}</UniqueIdentifier>
@@ -2298,6 +2421,12 @@
       <Filter>Source\ElementLife\UI</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ElementLife\UI\LifeHUD.h">
+      <Filter>Source\ElementLife\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\UI\LifeHUDLayout.cpp">
+      <Filter>Source\ElementLife\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\UI\LifeHUDLayout.h">
       <Filter>Source\ElementLife\UI</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\UI\Foundation">

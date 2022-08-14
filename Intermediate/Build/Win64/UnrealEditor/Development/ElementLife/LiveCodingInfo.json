@@ -2,13 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.ElementLife.cpp.obj": [
-			"LifePawnData.cpp.obj",
-			"ElementLife.cpp.obj",
-			"ElementLifeGameMode.cpp.obj",
-			"LifeExperienceActionSet.cpp.obj",
-			"LifeExperienceDefinition.cpp.obj",
-			"LifeButtonBase.cpp.obj",
-			"LifeActivatableWidget.cpp.obj",
 			"LifeAbilityCost_InventoryItem.cpp.obj",
 			"LifeAbilityCost_PlayerTagStack.cpp.obj",
 			"LifeGameplayAbility.cpp.obj",
@@ -44,7 +37,12 @@
 			"LifeHeroComponent.cpp.obj",
 			"LifePawn.cpp.obj",
 			"LifePawnComponent.cpp.obj",
+			"LifePawnData.cpp.obj",
 			"LifePawnExtensionComponent.cpp.obj",
+			"ElementLife.cpp.obj",
+			"ElementLifeGameMode.cpp.obj",
+			"LifeExperienceActionSet.cpp.obj",
+			"LifeExperienceDefinition.cpp.obj",
 			"LifeExperienceManager.cpp.obj",
 			"LifeExperienceManagerComponent.cpp.obj",
 			"LifeGameMode.cpp.obj",
@@ -79,13 +77,25 @@
 			"LifeGameSession.cpp.obj",
 			"LifeSignificanceManager.cpp.obj",
 			"LifeSystemStatics.cpp.obj",
-			"LifeHUD.cpp.obj"
+			"LifeButtonBase.cpp.obj",
+			"LifeActivatableWidget.cpp.obj",
+			"LifeHUD.cpp.obj",
+			"GameFeatureAction_AddAbilities.cpp.obj",
+			"GameFeatureAction_AddGameplayCuePath.cpp.obj",
+			"GameFeatureAction_AddInputBinding.cpp.obj",
+			"GameFeatureAction_AddInputConfig.cpp.obj",
+			"GameFeatureAction_AddInputContextMapping.cpp.obj",
+			"GameFeatureAction_AddWidget.cpp.obj",
+			"GameFeatureAction_SplitscreenConfig.cpp.obj",
+			"GameFeatureAction_WorldActionBase.cpp.obj",
+			"LifeGameFeaturePolicy.cpp.obj",
+			"LifeHotfixManager.cpp.obj",
+			"LifeRuntimeOptions.cpp.obj",
+			"LifeTextHotfixConfig.cpp.obj",
+			"LifeHUDLayout.cpp.obj"
 		],
-		"Module.ElementLife.gen.1_of_2.cpp.obj": [
+		"Module.ElementLife.gen.1_of_4.cpp.obj": [
 			"ElementLifeGameMode.gen.cpp.obj",
-			"LifeActivatableWidget.gen.cpp.obj",
-			"LifeButtonBase.gen.cpp.obj",
-			"ElementLife.init.gen.cpp.obj",
 			"GameplayMessageProcessor.gen.cpp.obj",
 			"GameplayTagStack.gen.cpp.obj",
 			"LifeAbilityCost.gen.cpp.obj",
@@ -97,26 +107,36 @@
 			"LifeAbilitySystemComponent.gen.cpp.obj",
 			"LifeAbilitySystemGlobals.gen.cpp.obj",
 			"LifeAbilityTagRelationshipMapping.gen.cpp.obj",
+			"LifeActivatableWidget.gen.cpp.obj",
 			"LifeActorUtilities.gen.cpp.obj",
 			"LifeAimSensitivityData.gen.cpp.obj",
 			"LifeAnimInstance.gen.cpp.obj",
 			"LifeAssetManager.gen.cpp.obj",
 			"LifeAttributeSet.gen.cpp.obj",
+			"LifeButtonBase.gen.cpp.obj",
 			"LifeCameraAssistInterface.gen.cpp.obj",
 			"LifeCameraComponent.gen.cpp.obj",
 			"LifeCameraMode.gen.cpp.obj",
 			"LifeCameraMode_ThirdPerson.gen.cpp.obj",
 			"LifeCharacter.gen.cpp.obj",
+			"ElementLife.init.gen.cpp.obj",
+			"GameFeatureAction_AddAbilities.gen.cpp.obj",
+			"GameFeatureAction_AddGameplayCuePath.gen.cpp.obj",
+			"GameFeatureAction_AddInputBinding.gen.cpp.obj",
+			"GameFeatureAction_AddInputConfig.gen.cpp.obj",
+			"GameFeatureAction_AddInputContextMapping.gen.cpp.obj",
+			"GameFeatureAction_AddWidget.gen.cpp.obj",
+			"GameFeatureAction_SplitscreenConfig.gen.cpp.obj",
+			"GameFeatureAction_WorldActionBase.gen.cpp.obj"
+		],
+		"Module.ElementLife.gen.2_of_4.cpp.obj": [
 			"LifeCharacterMovementComponent.gen.cpp.obj",
 			"LifeCharacterWithAbilities.gen.cpp.obj",
 			"LifeCombatSet.gen.cpp.obj",
 			"LifeDamageExecution.gen.cpp.obj",
 			"LifeDebugCameraController.gen.cpp.obj",
 			"LifeExperienceActionSet.gen.cpp.obj",
-			"LifeExperienceDefinition.gen.cpp.obj"
-		],
-		"Module.ElementLife.gen.2_of_2.cpp.obj": [
-			"LifeUserFacingExperienceDefinition.gen.cpp.obj",
+			"LifeExperienceDefinition.gen.cpp.obj",
 			"LifeExperienceManager.gen.cpp.obj",
 			"LifeExperienceManagerComponent.gen.cpp.obj",
 			"LifeGameData.gen.cpp.obj",
@@ -136,6 +156,9 @@
 			"LifeGlobalAbilitySystem.gen.cpp.obj",
 			"LifeHealExecution.gen.cpp.obj",
 			"LifeHealthComponent.gen.cpp.obj",
+			"LifeGameFeaturePolicy.gen.cpp.obj"
+		],
+		"Module.ElementLife.gen.3_of_4.cpp.obj": [
 			"LifeHealthSet.gen.cpp.obj",
 			"LifeHeroComponent.gen.cpp.obj",
 			"LifeHUD.gen.cpp.obj",
@@ -158,10 +181,19 @@
 			"LifePlayerStart.gen.cpp.obj",
 			"LifePlayerState.gen.cpp.obj",
 			"LifeSettingsShared.gen.cpp.obj",
+			"LifeHotfixManager.gen.cpp.obj",
+			"LifeHUDLayout.gen.cpp.obj",
+			"LifeRuntimeOptions.gen.cpp.obj"
+		],
+		"Module.ElementLife.gen.4_of_4.cpp.obj": [
 			"LifeSignificanceManager.gen.cpp.obj",
 			"LifeSystemStatics.gen.cpp.obj",
 			"LifeTaggedActor.gen.cpp.obj",
-			"LifeUICameraManagerComponent.gen.cpp.obj"
+			"LifeUICameraManagerComponent.gen.cpp.obj",
+			"LifeUserFacingExperienceDefinition.gen.cpp.obj",
+			"LifeVerbMessage.gen.cpp.obj",
+			"LifeVerbMessageHelpers.gen.cpp.obj",
+			"LifeTextHotfixConfig.gen.cpp.obj"
 		]
 	}
 }

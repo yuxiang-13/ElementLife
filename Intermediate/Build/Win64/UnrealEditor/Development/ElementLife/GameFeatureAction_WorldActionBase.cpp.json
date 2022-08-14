@@ -1,0 +1,26 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\source\\elementlife\\gamefeatures\\gamefeatureaction_worldactionbase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\gamefeatures\\gamefeatureaction_worldactionbase.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\source\\gamefeatures\\public\\gamefeatureaction.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\intermediate\\build\\win64\\unrealeditor\\inc\\gamefeatures\\gamefeatureaction.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\source\\gamefeatures\\public\\gamefeaturessubsystem.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\source\\gamefeatures\\public\\gamefeaturepluginoperationresult.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\intermediate\\build\\win64\\unrealeditor\\inc\\gamefeatures\\gamefeaturessubsystem.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\gamefeatureaction_worldactionbase.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\source\\gamefeatures\\public\\gamefeaturessubsystemsettings.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\source\\gamefeatures\\public\\gamefeaturedata.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\assetmanagertypes.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\intermediate\\build\\win64\\unrealeditor\\inc\\gamefeatures\\gamefeaturedata.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\intermediate\\build\\win64\\unrealeditor\\inc\\gamefeatures\\gamefeaturessubsystemsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

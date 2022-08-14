@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UIExtension.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\project\ElementLife\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\Module.UIExtension.cpp.obj"
+"D:\project\ElementLife\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\Module.UIExtension.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"D:\project\ElementLife\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\UnrealEditor-UIExtension.lib"

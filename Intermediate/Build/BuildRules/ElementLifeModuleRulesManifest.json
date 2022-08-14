@@ -14,6 +14,7 @@
 		"D:\\project\\ElementLife\\Plugins\\GameplayMessageRouter\\Source\\GameplayMessageNodes\\GameplayMessageNodes.Build.cs",
 		"D:\\project\\ElementLife\\Plugins\\GameplayMessageRouter\\Source\\GameplayMessageRuntime\\GameplayMessageRuntime.Build.cs",
 		"D:\\project\\ElementLife\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\ModularGameplayActors.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\UIExtension\\Source\\UIExtension.Build.cs",
 		"D:\\project\\ElementLife\\Source\\ElementLife.Target.cs",
 		"D:\\project\\ElementLife\\Source\\ElementLifeEditor.Target.cs"
 	],

@@ -58,6 +58,7 @@ public class ElementLife : ModuleRules
 				"CommonInput",
 				"CommonGame",
 				"CommonUser",
+				"UIExtension",
 				"GameplayMessageRuntime",
 				"AudioMixer",
 				"NetworkReplayStreaming",

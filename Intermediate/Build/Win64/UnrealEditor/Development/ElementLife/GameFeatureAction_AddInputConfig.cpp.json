@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\source\\elementlife\\gamefeatures\\gamefeatureaction_addinputconfig.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\gamefeatures\\gamefeatureaction_addinputconfig.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\source\\gamefeatures\\public\\gamefeatureaction.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\gamefeatures\\intermediate\\build\\win64\\unrealeditor\\inc\\gamefeatures\\gamefeatureaction.generated.h",
+            "d:\\project\\elementlife\\source\\elementlife\\input\\lifemappableconfigpair.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\commonui\\source\\commoninput\\public\\commoninputbasetypes.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\userdefinedenum.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\userdefinedenum.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\datatable.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettings.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettingsmanager.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developersettings\\platformsettingsmanager.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developersettings\\platformsettings.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\commonui\\intermediate\\build\\win64\\unrealeditor\\inc\\commoninput\\commoninputbasetypes.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifemappableconfigpair.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\gamefeatureaction_addinputconfig.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
