@@ -64,298 +64,354 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb1c465-2adc-4390-b176-ba3c1758636e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/System/Experiences/B_LyraDefaultExperience.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Foundation/Fonts/NotoSans.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Foundation/Fonts/NotoSans/NotoSans-Light.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Foundation/Subtitles/W_SubtitleDisplayHos.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Hud/W_DefaultHUDLayout.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Settings/Extensions/Subtitle/GameSubtitleOptions.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddAbilities.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddGameplayCuePath.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputBinding.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputConfig.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddInputContextMapping.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_AddWidget.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_SplitscreenConfig.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/GameFeatureAction_WorldActionBase.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeGameFeaturePolicy.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHUDLayout.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeHotfixManager.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeRuntimeOptions.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeTextHotfixConfig.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddAbilities.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddAbilities.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddGameplayCuePath.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddGameplayCuePath.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddInputBinding.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddInputBinding.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddInputConfig.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddInputConfig.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddInputContextMapping.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddInputContextMapping.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddWidget.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_AddWidget.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_SplitscreenConfig.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_SplitscreenConfig.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_WorldActionBase.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/GameFeatureAction_WorldActionBase.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameFeaturePolicy.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameFeaturePolicy.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeHUDLayout.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeHUDLayout.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeHotfixManager.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeHotfixManager.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeRuntimeOptions.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeRuntimeOptions.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeTextHotfixConfig.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeTextHotfixConfig.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Binaries/Win64/UnrealEditor-UIExtension.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Binaries/Win64/UnrealEditor-UIExtension.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Binaries/Win64/UnrealEditor.modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Definitions.UIExtension.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Definitions.UIExtension.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/LiveCodingInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/Module.UIExtension.gen.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.dll.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.lib.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Development/UIExtension/UnrealEditor-UIExtension.suppressed.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/Timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/UIExtension.init.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/UIExtensionClasses.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/UIExtensionPointWidget.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/UIExtensionPointWidget.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/UIExtensionSystem.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Intermediate/Build/Win64/UnrealEditor/Inc/UIExtension/UIExtensionSystem.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Private/LogUIExtension.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Private/LogUIExtension.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Private/UIExtensionModule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Private/UIExtensionSystem.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Private/Widgets/UIExtensionPointWidget.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Public/UIExtensionSystem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/Public/Widgets/UIExtensionPointWidget.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/Source/UIExtension.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/UIExtension/UIExtension.uplugin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-1362F2BC4C7854AAD98A96A121C350D5/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-66E0906640B54A549AF37984C8D46C4B/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-72A4DF5A49781D2C4630ED859A91D71D/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-B27C7B3B4E311C9C78D264BACB190813/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-C608D22F485BFD782CCA0B88EC65DA74/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-12.36.36.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.05.31.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.08.28.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.15.09.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.34.21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-20.56.43.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-21.16.05.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-21.17.03.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-21.23.12.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-21.24.18.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-21.30.47.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Search/AssetSearch.db-journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Search/FileInfo.db-journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddAbilities.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddAbilities.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddGameplayCuePath.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddGameplayCuePath.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddInputBinding.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddInputBinding.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddInputConfig.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddInputConfig.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddInputContextMapping.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddInputContextMapping.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddWidget.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_AddWidget.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_SplitscreenConfig.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_SplitscreenConfig.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_WorldActionBase.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/GameFeatureAction_WorldActionBase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/LifeGameFeaturePolicy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameFeatures/LifeGameFeaturePolicy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Hotfix/LifeHotfixManager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Hotfix/LifeHotfixManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Hotfix/LifeRuntimeOptions.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Hotfix/LifeRuntimeOptions.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Hotfix/LifeTextHotfixConfig.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Hotfix/LifeTextHotfixConfig.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/UI/LifeHUDLayout.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/ElementLife/UI/LifeHUDLayout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/B_LifeGameInstance.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/B_LifeGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Cameras/CM_ThirdPerson.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Cameras/ThirdPersonOffsetCurve.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Character_Default.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/B_Hero_Default.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/ABP_Mannequin_Base.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/AO_MM_Unarmed_Idle_Ready.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_CC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_CD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_CU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_LBC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_LBD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_LBU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_LC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_LD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_LU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_RBC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_RBD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_RBU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_RC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_RD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MM_Unarmed_Idle_Ready_AO_RU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimEnum_CardinalDirection.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimEnum_RootYawOffsetMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootFXAnimModifier.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootFXAnimModifier_FootDefinition.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimModifiers/FootstepEffectTagModifier.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimModifiers/TurnYawAnimModifier.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimNotifies/TransitionToLocomotion.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/AnimStruct_CardinalDirections.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/LinkedLayers/ALI_ItemAnimLayers.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MM_Pistol_Crouch_Idle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/BS_MM_Rifle_Jog_Leans.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/MM_Rifle_Idle_Hipfire.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/MM_Rifle_Jog_Fwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/MM_Rifle_Jog_Lean_Center.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/MM_Rifle_Jog_Lean_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/MM_Rifle_Jog_Leans_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Entry.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Exit.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Idle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_TurnLeft_90.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_TurnRight_90.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Bwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Bwd_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Bwd_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Bwd_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Fwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Fwd_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Fwd_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Fwd_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Left_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Left_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Left_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Right_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Right_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Crouch_Walk_Right_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_IdleBreak_Fidget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_IdleBreak_Scan.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Idle_Ready.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Bwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Bwd_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Bwd_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Bwd_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Fwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Fwd_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Fwd_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Fwd_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Left_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Left_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Left_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Pivot_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Right_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Right_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jump_Apex.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jump_Fall_Loop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jump_RecoveryAdditive.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jump_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jump_Start_Loop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_TurnLeft_90.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_TurnRight_90.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Bwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Bwd_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Bwd_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Bwd_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Fwd.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Fwd_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Fwd_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Fwd_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Left_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Left_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Left_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Right_Pivot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Right_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Right_Stop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Animations/UniformIndexableCurveCompressionSettings.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Functions/CA_Mannequin_new.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Functions/ChromaticCurve2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Functions/MF_BaseColorFallOff.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Functions/MF_Diffraction.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Functions/MF_logo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_01_Blue.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_02_Blue.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Materials/M_Mannequin.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Meshes/SKM_Manny.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Meshes/SK_Mannequin.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/ABP_Manny_PostProcess.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/ABP_Quinn_PostProcess.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/CR_Mannequin_FootPlant.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/CR_Mannequin_Procedural.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/PA_Mannequin.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_calf_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_calf_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_calf_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_calf_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_clavicle_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_clavicle_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_clavicle_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_clavicle_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_foot_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_foot_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_foot_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_foot_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_hand_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_hand_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_hand_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_hand_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_lowerarm_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_lowerarm_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_lowerarm_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_lowerarm_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_thigh_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_thigh_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_thigh_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_thigh_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_upperarm_l_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_upperarm_l_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_upperarm_r_anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Rig/Poses/Quinn/Quinn_upperarm_r_pose.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Shared/T_OrangePeel_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Shared/T_UE_Logo_V2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/PhysMat_Player.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/PhysMat_Player_WeakSpot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/SimplePawnData/SimplePawnData.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Effects/AnimationNotifies/AN_FootPlant_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Effects/AnimationNotifies/AN_FootPlant_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Effects/MaterialFunctions/MF_MannequinEdge.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Effects/MaterialFunctions/MF_MannequinHitMacro.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Effects/MaterialFunctions/MF_MannequinLaunchEdgeGlow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Ability_Dash.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Ability_Heal.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_AutoRun.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Crouch.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Jump.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Look_Mouse.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Look_Stick.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Move.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Weapon_Fire.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Weapon_Fire_Auto.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Weapon_Reload.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Input/InputData_Hero.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/PhysicsMaterials/PM_Character.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/System/Experiences/B_LifeDefaultExperience.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/CommonGameInstance.cpp.obj.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Characters/Heroes/SimplePawnData/SimplePawnData_Auto1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-1F64203C4A36F06ADAD55FB7354E4545/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-242809414A81E6E1055CD1843054D052/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-3C66F379433FD78BBB1B24ADFEE4D3FF/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A5141F2549FF33C349528AB54FC470C4/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A99BC0AD49B13513C69BF688AF22DD15/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-DB3C95A34886DCB6231197AFC1DAEC06/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-EC11DEE94462CDB640A8A2B38B2EBBD5/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-EF7E6BD5498C51F38A27708EFCE9C4E1/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-FAF2258140428538F88773B2EAF81CC9/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-FD950F9444E3E293EAD85887A1F29C5F/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0000/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0000/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0001/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0001/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0001/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-242809414A81E6E1055CD1843054D052_0001/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0000/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0000/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0001/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0001/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0001/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0001/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0002/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0002/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0002/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0002/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0003/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0003/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0003/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0003/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0004/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0004/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0004/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-E7C241E14F73843E8D0E3C80508875D6_0004/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EC11DEE94462CDB640A8A2B38B2EBBD5_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EC11DEE94462CDB640A8A2B38B2EBBD5_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EC11DEE94462CDB640A8A2B38B2EBBD5_0000/ElementLife.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-EC11DEE94462CDB640A8A2B38B2EBBD5_0000/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.43.33.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-14.00.59.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-14.03.07.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-14.35.38.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-14.42.03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-14.43.21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-14.58.09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-15.27.50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-15.29.27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-15.57.53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife_2-backup-2022.08.14-02.54.08.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementLife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementLife/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/ElementLifeEditor.target" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/ElementLifeEditor.target" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/System/DA_ExamplePlaylist.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/System/DA_ExamplePlaylist.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElementLife.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ElementLife.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRulesManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/B_LyraGameInstance.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/System/Experiences/B_LyraDefaultExperience.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/ElementLifeEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/ElementLifeEditor.uhtmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/Makefile.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/TargetMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/TargetMetadata.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LiveCodingInfo.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.obj.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.cpp.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.obj.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.1_of_4.cpp.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.obj.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.2_of_4.cpp.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.obj.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.3_of_4.cpp.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.obj.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Module.ElementLife.gen.4_of_4.cpp.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.suppressed.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.suppressed.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.suppressed.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.suppressed.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/ElementLife.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/ElementLife.init.gen.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/ElementLife.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/ElementLife.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/LiveCodingInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.dll.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.dll.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameInstance.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameInstance.generated.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonGameInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonGameInstance.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/CommonLoadingScreen/Intermediate/Build/Win64/UnrealEditor/Inc/CommonLoadingScreen/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonLoadingScreen/Intermediate/Build/Win64/UnrealEditor/Inc/CommonLoadingScreen/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/CommonUser/Intermediate/Build/Win64/UnrealEditor/Inc/CommonUser/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/CommonUser/Intermediate/Build/Win64/UnrealEditor/Inc/CommonUser/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/UnrealEditor/Inc/GameplayMessageRuntime/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameplayMessageRouter/Intermediate/Build/Win64/UnrealEditor/Inc/GameplayMessageRuntime/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/ModularGameplayActors/Intermediate/Build/Win64/UnrealEditor/Inc/ModularGameplayActors/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/ModularGameplayActors/Intermediate/Build/Win64/UnrealEditor/Inc/ModularGameplayActors/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Editor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-02.57.36.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.06.04.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.17.04.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.24.33.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.26.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/GameplayTagsEditorState.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/GameplayTagsEditorState.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-04.04.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-04.11.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-11.47.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-12.18.03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-12.36.36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.05.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.08.28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.15.09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.34.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-13.35.41.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife_2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Search/AssetSearch.db" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Search/AssetSearch.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Search/FileInfo.db" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Search/FileInfo.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ElementLife/ElementLife.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ElementLife/ElementLife.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22389,6 +22445,9 @@
       <workItem from="1660481667222" duration="184000" />
       <workItem from="1660482359367" duration="170000" />
       <workItem from="1660482951492" duration="1182000" />
+      <workItem from="1660487286424" duration="44000" />
+      <workItem from="1660487445755" duration="76000" />
+      <workItem from="1660492374721" duration="622000" />
     </task>
     <servers />
   </component>

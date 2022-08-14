@@ -10,6 +10,7 @@
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeExperienceManagerComponent.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameData.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameEngine.gen.cpp"
+#include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameFeaturePolicy.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameInstance.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGameMode.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeGamePhaseAbility.gen.cpp"

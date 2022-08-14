@@ -2,6 +2,7 @@
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeSignificanceManager.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeSystemStatics.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeTaggedActor.gen.cpp"
+#include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeTextHotfixConfig.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeUICameraManagerComponent.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp"
 #include "D:/project/ElementLife/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/LifeVerbMessage.gen.cpp"

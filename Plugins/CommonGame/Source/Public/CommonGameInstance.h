@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "CommonUserSubsystem.h"
+#include "CommonUserTypes.h"
 #include "GameplayTagContainer.h"
 #include "Engine/GameInstance.h"
 

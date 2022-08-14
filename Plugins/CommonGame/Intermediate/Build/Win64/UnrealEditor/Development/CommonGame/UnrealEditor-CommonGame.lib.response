@@ -8,6 +8,7 @@
 /NODEFAULTLIB
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\project\ElementLife\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.obj"
+"D:\project\ElementLife\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Development\CommonGame\CommonGameInstance.cpp.obj"
 "D:\project\ElementLife\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Development\CommonGame\Module.CommonGame.gen.cpp.obj"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
 /OUT:"D:\project\ElementLife\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Development\CommonGame\UnrealEditor-CommonGame.lib"

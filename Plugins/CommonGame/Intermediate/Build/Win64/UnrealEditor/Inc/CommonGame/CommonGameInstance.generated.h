@@ -17,20 +17,20 @@ struct FGameplayTag;
 #endif
 #define COMMONGAME_CommonGameInstance_generated_h
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_SPARSE_DATA
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_RPC_WRAPPERS \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_SPARSE_DATA
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execHandlePrivilegeChanged); \
 	DECLARE_FUNCTION(execHandleSystemMessage);
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execHandlePrivilegeChanged); \
 	DECLARE_FUNCTION(execHandleSystemMessage);
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCommonGameInstance(); \
 	friend struct Z_Construct_UClass_UCommonGameInstance_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(UCommonGameInstance)
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_INCLASS \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesUCommonGameInstance(); \
 	friend struct Z_Construct_UClass_UCommonGameInstance_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_SERIALIZER(UCommonGameInstance)
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_STANDARD_CONSTRUCTORS \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UCommonGameInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UCommonGameInstance) \
@@ -61,7 +61,7 @@ private: \
 public:
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UCommonGameInstance(UCommonGameInstance&&); \
@@ -72,25 +72,25 @@ public: \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UCommonGameInstance)
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_14_PROLOG
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_GENERATED_BODY_LEGACY \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_16_PROLOG
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_SPARSE_DATA \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_RPC_WRAPPERS \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_INCLASS \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_STANDARD_CONSTRUCTORS \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_SPARSE_DATA \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_RPC_WRAPPERS \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_INCLASS \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_GENERATED_BODY \
+#define FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_SPARSE_DATA \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_INCLASS_NO_PURE_DECLS \
-	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_17_ENHANCED_CONSTRUCTORS \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_SPARSE_DATA \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_INCLASS_NO_PURE_DECLS \
+	FID_ElementLife_Plugins_CommonGame_Source_Public_CommonGameInstance_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
