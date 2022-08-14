@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\source\\elementlife\\player\\lifeplayerstart.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\player\\lifeplayerstart.h",
+            "d:\\project\\elementlife\\plugins\\modulargameplayactors\\source\\modulargameplayactors\\public\\modularplayerstate.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\playerstate.generated.h",
+            "d:\\project\\elementlife\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealeditor\\inc\\modulargameplayactors\\modularplayerstate.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\abilitysysteminterface.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\abilitysysteminterface.generated.h",
+            "d:\\project\\elementlife\\source\\elementlife\\system\\gameplaytagstack.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\gameplaytagstack.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstart.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\navigationobjectbase.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\navigationobjectbase.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\playerstart.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeplayerstart.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

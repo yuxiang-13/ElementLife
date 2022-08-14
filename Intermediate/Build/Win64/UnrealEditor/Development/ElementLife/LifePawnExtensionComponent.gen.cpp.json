@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifepawnextensioncomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\character\\lifepawnextensioncomponent.h",
+            "d:\\project\\elementlife\\source\\elementlife\\character\\lifepawncomponent.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\modulargameplay\\source\\modulargameplay\\public\\components\\pawncomponent.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\modulargameplay\\source\\modulargameplay\\public\\components\\gameframeworkcomponent.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\modulargameplay\\intermediate\\build\\win64\\unrealeditor\\inc\\modulargameplay\\gameframeworkcomponent.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\modulargameplay\\intermediate\\build\\win64\\unrealeditor\\inc\\modulargameplay\\pawncomponent.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifepawncomponent.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifepawnextensioncomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

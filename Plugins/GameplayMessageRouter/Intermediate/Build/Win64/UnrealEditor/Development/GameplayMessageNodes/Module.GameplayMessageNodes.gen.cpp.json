@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessagenodes\\module.gameplaymessagenodes.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessagenodes\\definitions.gameplaymessagenodes.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessagenodes\\gameplaymessagenodes.init.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessagenodes\\k2node_asyncaction_listenforgameplaymessages.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\source\\gameplaymessagenodes\\public\\k2node_asyncaction_listenforgameplaymessages.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_asyncaction.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_baseasynctask.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\k2node_baseasynctask.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\k2node_asyncaction.generated.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessagenodes\\k2node_asyncaction_listenforgameplaymessages.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

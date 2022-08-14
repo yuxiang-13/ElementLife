@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeinputcombocomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\input\\lifeinputcombocomponent.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\inputactionvalue.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\source\\enhancedinput\\public\\inputmappingquery.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\inputmappingquery.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\inputmodifiers.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\inputtriggers.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\plugins\\experimental\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\inputaction.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeinputcombocomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

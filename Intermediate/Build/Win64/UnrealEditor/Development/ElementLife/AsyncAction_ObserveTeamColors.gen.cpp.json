@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\asyncaction_observeteamcolors.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\teams\\asyncaction_observeteamcolors.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\coreuobject\\public\\uobject\\weakinterfaceptr.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\blueprintasyncactionbase.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cancellableasyncaction.generated.h",
+            "d:\\project\\elementlife\\source\\elementlife\\teams\\lifeteamagentinterface.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\genericteamagentinterface.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeteamagentinterface.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\asyncaction_observeteamcolors.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

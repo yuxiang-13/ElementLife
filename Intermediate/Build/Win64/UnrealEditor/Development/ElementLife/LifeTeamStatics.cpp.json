@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\source\\elementlife\\teams\\lifeteamstatics.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\teams\\lifeteamstatics.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeteamstatics.generated.h",
+            "d:\\project\\elementlife\\source\\elementlife\\teams\\lifeteamsubsystem.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeteamsubsystem.generated.h",
+            "d:\\project\\elementlife\\source\\elementlife\\lifelogchannels.h",
+            "d:\\project\\elementlife\\source\\elementlife\\teams\\lifeteamdisplayasset.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifeteamdisplayasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

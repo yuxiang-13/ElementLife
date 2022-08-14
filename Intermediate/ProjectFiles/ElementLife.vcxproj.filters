@@ -155,6 +155,18 @@
     <None Include="..\..\Plugins\CommonGame\CommonGame.uplugin">
       <Filter>Plugins\CommonGame</Filter>
     </None>
+    <Filter Include="Plugins\CommonLoadingScreen">
+      <UniqueIdentifier>{DB527D3F-6562-3F6B-BDCE-ED7598D43504}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CommonLoadingScreen\CommonLoadingScreen.uplugin">
+      <Filter>Plugins\CommonLoadingScreen</Filter>
+    </None>
+    <Filter Include="Plugins\CommonLoadingScreen\Resources">
+      <UniqueIdentifier>{9D9C6F3D-556D-3E02-B131-F740A15AC9B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CommonLoadingScreen\Resources\Icon128.png">
+      <Filter>Plugins\CommonLoadingScreen\Resources</Filter>
+    </None>
     <Filter Include="Plugins\CommonUser">
       <UniqueIdentifier>{8716E485-BC4A-3B38-8F39-874ACA390677}</UniqueIdentifier>
     </Filter>
@@ -182,12 +194,81 @@
     <None Include="..\..\Plugins\Developer\RiderLink\Resources\Icon128.png">
       <Filter>Plugins\Developer\RiderLink\Resources</Filter>
     </None>
+    <Filter Include="Plugins\GameplayMessageRouter">
+      <UniqueIdentifier>{9D7281A3-00CF-37CE-AB96-C65F44BCD644}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GameplayMessageRouter\GameplayMessageRouter.uplugin">
+      <Filter>Plugins\GameplayMessageRouter</Filter>
+    </None>
     <Filter Include="Plugins\ModularGameplayActors">
       <UniqueIdentifier>{E25759FB-664C-355F-8250-88BB112CE4AF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ModularGameplayActors\ModularGameplayActors.uplugin">
       <Filter>Plugins\ModularGameplayActors</Filter>
     </None>
+    <Filter Include="Plugins\CommonLoadingScreen\Source">
+      <UniqueIdentifier>{FF66C1B8-4C61-36F7-AE5F-6D6DE98A5411}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CommonLoadingScreen\Source\CommonLoadingScreen">
+      <UniqueIdentifier>{DFE78079-5913-3631-BB47-AE07011E2558}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\CommonLoadingScreen.Build.cs">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen</Filter>
+    </None>
+    <Filter Include="Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private">
+      <UniqueIdentifier>{14423034-913B-3C8B-86A1-53FB62F04B15}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private\CommonLoadingScreenModule.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private\CommonLoadingScreenSettings.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private\CommonLoadingScreenSettings.h">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private\LoadingScreenManager.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public">
+      <UniqueIdentifier>{9F6D54A5-D0F3-3F70-8641-C29A22AA138B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessInterface.h">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessTask.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingProcessTask.h">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public\LoadingScreenManager.h">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen">
+      <UniqueIdentifier>{57603DBF-2403-3F33-9A40-270BFB7D4B6B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\CommonStartupLoadingScreen.Build.cs">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen</Filter>
+    </None>
+    <Filter Include="Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private">
+      <UniqueIdentifier>{9F7543D4-B9F8-3A75-B398-2BA25D8BCCFE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private\CommonPreLoadScreen.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private\CommonPreLoadScreen.h">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private\CommonStartupLoadingScreen.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private\SCommonPreLoadingScreenWidget.cpp">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private\SCommonPreLoadingScreenWidget.h">
+      <Filter>Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private</Filter>
+    </ClInclude>
     <Filter Include="Plugins\CommonUser\Source">
       <UniqueIdentifier>{EEB044F2-392C-3506-9A79-6AB8BD3A1A6C}</UniqueIdentifier>
     </Filter>
@@ -1565,6 +1646,66 @@
     <ClInclude Include="..\..\Plugins\Developer\RiderLink\Source\RiderShaderInfoDump\RiderShaderInfoDump.h">
       <Filter>Plugins\Developer\RiderLink\Source\RiderShaderInfoDump</Filter>
     </ClInclude>
+    <Filter Include="Plugins\GameplayMessageRouter\Source">
+      <UniqueIdentifier>{AD63915F-3CDB-3083-840D-0F0A56F9C437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageNodes">
+      <UniqueIdentifier>{8EBD47BD-95D7-305A-AE63-699A8AE0F4BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\GameplayMessageNodes.Build.cs">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageNodes</Filter>
+    </None>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private">
+      <UniqueIdentifier>{2AC0EA5E-EA15-3827-AF1D-E4E135289270}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private\GameplayMessageNodesModule.cpp">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private\K2Node_AsyncAction_ListenForGameplayMessages.cpp">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Public">
+      <UniqueIdentifier>{3B246B6A-8BBA-37C4-AFEE-E8B17D62C832}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Public\K2Node_AsyncAction_ListenForGameplayMessages.h">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime">
+      <UniqueIdentifier>{3801EBE5-749A-3CE3-ADEE-3AA54924F5F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\GameplayMessageRuntime.Build.cs">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime</Filter>
+    </None>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private">
+      <UniqueIdentifier>{1392D215-555C-3BEE-A3A6-F4EBA97AD3C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework">
+      <UniqueIdentifier>{194EFB08-7285-3F27-BCC4-98CE90DAA6A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework\AsyncAction_ListenForGameplayMessage.cpp">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework\GameplayMessageRuntime.cpp">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework\GameplayMessageSubsystem.cpp">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Private\GameFramework</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public">
+      <UniqueIdentifier>{97B6F166-C7DD-36D9-AAB3-083BD76DDE0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework">
+      <UniqueIdentifier>{48EFE913-C5C3-3058-B3DA-C4B7C5844910}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework\AsyncAction_ListenForGameplayMessage.h">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework\GameplayMessageSubsystem.h">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework\GameplayMessageTypes2.h">
+      <Filter>Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public\GameFramework</Filter>
+    </ClInclude>
     <Filter Include="Plugins\ModularGameplayActors\Source">
       <UniqueIdentifier>{D2A7373A-5074-3627-B395-44D580887335}</UniqueIdentifier>
     </Filter>
@@ -1643,37 +1784,277 @@
     <ClInclude Include="..\..\Source\ElementLife\ElementLifeGameMode.h">
       <Filter>Source\ElementLife</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\LifeGameplayTags.cpp">
+      <Filter>Source\ElementLife</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\LifeGameplayTags.h">
+      <Filter>Source\ElementLife</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\LifeLogChannels.cpp">
+      <Filter>Source\ElementLife</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\LifeLogChannels.h">
+      <Filter>Source\ElementLife</Filter>
+    </ClInclude>
     <Filter Include="Source\ElementLife\AbilitySystem">
       <UniqueIdentifier>{186DAFB4-956C-3ECC-8873-A764ED10E412}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilitySet.cpp">
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySet.cpp">
       <Filter>Source\ElementLife\AbilitySystem</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilitySet.h">
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySet.h">
       <Filter>Source\ElementLife\AbilitySystem</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilityTagRelationshipMapping.cpp">
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySourceInterface.cpp">
       <Filter>Source\ElementLife\AbilitySystem</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilityTagRelationshipMapping.h">
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySourceInterface.h">
       <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySystemComponent.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySystemComponent.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySystemGlobals.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilitySystemGlobals.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilityTagRelationshipMapping.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeAbilityTagRelationshipMapping.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeGameplayAbilityTargetData_SingleTargetHit.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeGameplayAbilityTargetData_SingleTargetHit.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeGameplayCueManager.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeGameplayCueManager.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeGameplayEffectContext.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeGameplayEffectContext.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeGlobalAbilitySystem.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeGlobalAbilitySystem.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LifeTaggedActor.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LifeTaggedActor.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\AbilitySystem\Abilities">
+      <UniqueIdentifier>{AC6547BC-AB54-37F0-96CC-B5665FE5840D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeAbilityCost.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeAbilityCost_InventoryItem.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeAbilityCost_InventoryItem.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeAbilityCost_PlayerTagStack.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeAbilityCost_PlayerTagStack.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeAbilitySimpleFailureMessage.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeGameplayAbility.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeGameplayAbility.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeGameplayAbility_Jump.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeGameplayAbility_Jump.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeGameplayAbility_Reset.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Abilities\LifeGameplayAbility_Reset.h">
+      <Filter>Source\ElementLife\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\AbilitySystem\Attributes">
+      <UniqueIdentifier>{9E5FE0F5-1F8E-3C86-BC42-51896281E3B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Attributes\LifeAttributeSet.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Attributes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Attributes\LifeAttributeSet.h">
+      <Filter>Source\ElementLife\AbilitySystem\Attributes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Attributes\LifeCombatSet.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Attributes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Attributes\LifeCombatSet.h">
+      <Filter>Source\ElementLife\AbilitySystem\Attributes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Attributes\LifeHealthSet.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Attributes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Attributes\LifeHealthSet.h">
+      <Filter>Source\ElementLife\AbilitySystem\Attributes</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\AbilitySystem\Executions">
+      <UniqueIdentifier>{CEFDE5D0-821C-316B-9894-12338248A9CC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Executions\LifeDamageExecution.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Executions</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Executions\LifeDamageExecution.h">
+      <Filter>Source\ElementLife\AbilitySystem\Executions</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Executions\LifeHealExecution.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Executions</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Executions\LifeHealExecution.h">
+      <Filter>Source\ElementLife\AbilitySystem\Executions</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\AbilitySystem\Phases">
+      <UniqueIdentifier>{44362FB2-AE98-3CE8-8AB3-2204F6239EB4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Phases\LifeGamePhaseAbility.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Phases</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Phases\LifeGamePhaseAbility.h">
+      <Filter>Source\ElementLife\AbilitySystem\Phases</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Phases\LifeGamePhaseLog.h">
+      <Filter>Source\ElementLife\AbilitySystem\Phases</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\Phases\LifeGamePhaseSubsystem.cpp">
+      <Filter>Source\ElementLife\AbilitySystem\Phases</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\Phases\LifeGamePhaseSubsystem.h">
+      <Filter>Source\ElementLife\AbilitySystem\Phases</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Animation">
+      <UniqueIdentifier>{8A003B4E-4302-3790-A7B7-C6A204C76DF8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Animation\LifeAnimInstance.cpp">
+      <Filter>Source\ElementLife\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Animation\LifeAnimInstance.h">
+      <Filter>Source\ElementLife\Animation</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\Camera">
       <UniqueIdentifier>{7E0973AE-00BA-32D3-AC43-721F29961D80}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ElementLife\Camera\LyraCameraMode.cpp">
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifeCameraAssistInterface.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Camera\LifeCameraComponent.cpp">
       <Filter>Source\ElementLife\Camera</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\Camera\LyraCameraMode.h">
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifeCameraComponent.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Camera\LifeCameraMode.cpp">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifeCameraMode.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Camera\LifeCameraMode_ThirdPerson.cpp">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifeCameraMode_ThirdPerson.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifePenetrationAvoidanceFeeler.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Camera\LifePlayerCameraManager.cpp">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifePlayerCameraManager.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Camera\LifeUICameraManagerComponent.cpp">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LifeUICameraManagerComponent.h">
       <Filter>Source\ElementLife\Camera</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\Character">
       <UniqueIdentifier>{46933F8F-F070-3326-B8CF-88B5D3CD90F3}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifeCharacter.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifeCharacter.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifeCharacterMovementComponent.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifeCharacterMovementComponent.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifeCharacterWithAbilities.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifeCharacterWithAbilities.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifeHealthComponent.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifeHealthComponent.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifeHeroComponent.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifeHeroComponent.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifePawn.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifePawn.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifePawnComponent.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifePawnComponent.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ElementLife\Character\LifePawnData.cpp">
       <Filter>Source\ElementLife\Character</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ElementLife\Character\LifePawnData.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifePawnExtensionComponent.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifePawnExtensionComponent.h">
       <Filter>Source\ElementLife\Character</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\GameModes">
@@ -1691,6 +2072,30 @@
     <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeExperienceDefinition.h">
       <Filter>Source\ElementLife\GameModes</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeExperienceManager.cpp">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeExperienceManager.h">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeExperienceManagerComponent.cpp">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeExperienceManagerComponent.h">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeGameMode.cpp">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeGameMode.h">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeGameState.cpp">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeGameState.h">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeUserFacingExperienceDefinition.cpp">
       <Filter>Source\ElementLife\GameModes</Filter>
     </ClCompile>
@@ -1700,11 +2105,185 @@
     <Filter Include="Source\ElementLife\Input">
       <UniqueIdentifier>{D1BB0E0D-9F66-397D-AE84-C89E1AEE0CF7}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ElementLife\Input\LyraInputConfig.cpp">
+    <ClCompile Include="..\..\Source\ElementLife\Input\LifeAimSensitivityData.cpp">
       <Filter>Source\ElementLife\Input</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\Input\LyraInputConfig.h">
+    <ClInclude Include="..\..\Source\ElementLife\Input\LifeAimSensitivityData.h">
       <Filter>Source\ElementLife\Input</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Input\LifeInputComboComponent.cpp">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Input\LifeInputComboComponent.h">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Input\LifeInputComponent.cpp">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Input\LifeInputComponent.h">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Input\LifeInputConfig.cpp">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Input\LifeInputConfig.h">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Input\LifeInputModifiers.cpp">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Input\LifeInputModifiers.h">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Input\LifeMappableConfigPair.cpp">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Input\LifeMappableConfigPair.h">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Inventory">
+      <UniqueIdentifier>{1923F5E3-9585-3444-BAA1-7DA2666E43A0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Inventory\LifeInventoryItemDefinition.cpp">
+      <Filter>Source\ElementLife\Inventory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Inventory\LifeInventoryItemDefinition.h">
+      <Filter>Source\ElementLife\Inventory</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Messages">
+      <UniqueIdentifier>{30B16776-CF71-3F14-9365-6EB4699B9A67}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Messages\GameplayMessageProcessor.cpp">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Messages\GameplayMessageProcessor.h">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Messages\LifeNotificationMessage.cpp">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Messages\LifeNotificationMessage.h">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ElementLife\Messages\LifeVerbMessage.h">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Messages\LifeVerbMessageHelpers.cpp">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Messages\LifeVerbMessageHelpers.h">
+      <Filter>Source\ElementLife\Messages</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Player">
+      <UniqueIdentifier>{F0BA5B35-85C4-39BF-BA5B-5F13E3B76991}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Player\LifeDebugCameraController.cpp">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Player\LifeDebugCameraController.h">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Player\LifeLocalPlayer.cpp">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Player\LifeLocalPlayer.h">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Player\LifePlayerController.cpp">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Player\LifePlayerController.h">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Player\LifePlayerSpawningManagerComponent.cpp">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Player\LifePlayerSpawningManagerComponent.h">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Player\LifePlayerStart.cpp">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Player\LifePlayerStart.h">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\Player\LifePlayerState.cpp">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Player\LifePlayerState.h">
+      <Filter>Source\ElementLife\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Settings">
+      <UniqueIdentifier>{3C1A8B26-D99D-3AA6-8025-8F041CECE0B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Settings\LifeSettingsShared.cpp">
+      <Filter>Source\ElementLife\Settings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Settings\LifeSettingsShared.h">
+      <Filter>Source\ElementLife\Settings</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\System">
+      <UniqueIdentifier>{4045229C-2142-37D1-B08E-A071D99FC448}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\System\GameplayTagStack.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\GameplayTagStack.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeActorUtilities.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeActorUtilities.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeAssetManager.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeAssetManager.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeAssetManagerStartupJob.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeAssetManagerStartupJob.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeGameData.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeGameData.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeGameEngine.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeGameEngine.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeGameInstance.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeGameInstance.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeGameSession.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeGameSession.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeSignificanceManager.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeSignificanceManager.h">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\System\LifeSystemStatics.cpp">
+      <Filter>Source\ElementLife\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\System\LifeSystemStatics.h">
+      <Filter>Source\ElementLife\System</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\UI">
       <UniqueIdentifier>{7D060244-B9FE-398E-BB4D-C563DBF9E51C}</UniqueIdentifier>
@@ -1713,6 +2292,12 @@
       <Filter>Source\ElementLife\UI</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ElementLife\UI\LifeActivatableWidget.h">
+      <Filter>Source\ElementLife\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\UI\LifeHUD.cpp">
+      <Filter>Source\ElementLife\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\UI\LifeHUD.h">
       <Filter>Source\ElementLife\UI</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\UI\Foundation">

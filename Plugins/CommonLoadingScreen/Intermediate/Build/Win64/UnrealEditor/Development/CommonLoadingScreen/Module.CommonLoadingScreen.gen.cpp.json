@@ -1,0 +1,32 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\development\\commonloadingscreen\\module.commonloadingscreen.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\development\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\commonloadingscreen.init.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\commonloadingscreensettings.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\private\\commonloadingscreensettings.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\developersettings\\public\\engine\\developersettingsbackedbycvars.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developersettings\\developersettingsbackedbycvars.generated.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\commonloadingscreensettings.generated.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\loadingprocessinterface.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\loadingprocessinterface.generated.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\loadingprocesstask.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\coreuobject\\public\\uobject\\weakinterfaceptr.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\loadingprocesstask.generated.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\loadingscreenmanager.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingscreenmanager.h",
+            "d:\\project\\elementlife\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\loadingscreenmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

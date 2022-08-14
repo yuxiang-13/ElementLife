@@ -1,0 +1,30 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessageruntime\\module.gameplaymessageruntime.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\development\\gameplaymessageruntime\\definitions.gameplaymessageruntime.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\asyncaction_listenforgameplaymessage.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\asyncaction_listenforgameplaymessage.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\blueprintasyncactionbase.generated.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagesubsystem.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagetypes2.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagetypes2.generated.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagesubsystem.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cancellableasyncaction.generated.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\asyncaction_listenforgameplaymessage.generated.h",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessageruntime.init.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagesubsystem.gen.cpp",
+            "d:\\project\\elementlife\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\gameplaymessagetypes2.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

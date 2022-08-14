@@ -3,7 +3,6 @@
 #include "LifeUserFacingExperienceDefinition.h"
 
 #include "CommonSessionSubsystem.h"
-#include "CommonSessionSubsystem.h"
 
 UCommonSession_HostSessionRequest* ULifeUserFacingExperienceDefinition::CreateHostingRequest() const
 {

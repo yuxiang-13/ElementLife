@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\project\\elementlife\\source\\elementlife\\character\\lifepawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\development\\elementlife\\definitions.elementlife.h",
+            "d:\\project\\elementlife\\source\\elementlife\\character\\lifepawn.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\genericteamagentinterface.generated.h",
+            "d:\\project\\elementlife\\plugins\\modulargameplayactors\\source\\modulargameplayactors\\public\\modularpawn.h",
+            "d:\\project\\elementlife\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealeditor\\inc\\modulargameplayactors\\modularpawn.generated.h",
+            "d:\\project\\elementlife\\intermediate\\build\\win64\\unrealeditor\\inc\\elementlife\\lifepawn.generated.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "d:\\project\\elementlife\\source\\elementlife\\lifelogchannels.h",
+            "d:\\ue5\\unrealengine-release\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "d:\\ue5\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\playerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -15,6 +15,7 @@ public class ElementLife : ModuleRules
 			}
 		);
 		
+
 		PublicDependencyModuleNames.AddRange(
 			new string[] {
 				"Core",
@@ -27,22 +28,21 @@ public class ElementLife : ModuleRules
 				"GameplayTasks",
 				"GameplayAbilities",
 				"AIModule",
+				"ModularGameplay",
 				"ModularGameplayActors",
 				"DataRegistry",
 				"ReplicationGraph",
 				"GameFeatures",
 				"SignificanceManager",
-				"CommonGame",
+				"Hotfix",
+				"CommonLoadingScreen",
+				"Niagara",
 				"ControlFlows"
 			}
 		);
 
 		PrivateDependencyModuleNames.AddRange(
 			new string[] {
-				"CommonUI",
-				"CommonUIEditor",
-				"CommonInput",
-				"UMG",
 				"InputCore",
 				"Slate",
 				"SlateCore",
@@ -53,10 +53,16 @@ public class ElementLife : ModuleRules
 				"RHI",
 				"Projects",
 				"Gauntlet",
+				"UMG",
+				"CommonUI",
 				"CommonInput",
+				"CommonGame",
+				"CommonUser",
+				"GameplayMessageRuntime",
+				"AudioMixer",
 				"NetworkReplayStreaming",
 				"ClientPilot",
-				"CommonUser"
+				"AudioModulation"
 			}
 		);
 	}
