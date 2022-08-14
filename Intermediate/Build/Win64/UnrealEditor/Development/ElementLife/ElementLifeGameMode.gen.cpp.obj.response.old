@@ -263,6 +263,8 @@ D:\project\ElementLife\Intermediate\Build\Win64\UnrealEditor\Inc\ElementLife\Ele
 /I Runtime\Media\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MediaUtils
 /I Runtime\MediaUtils\Public
+/I ..\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUIEditor
+/I ..\Plugins\Experimental\CommonUI\Source\CommonUIEditor\Public
 /I ..\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput
 /I ..\Plugins\Experimental\EnhancedInput\Source
 /I ..\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public

@@ -38,9 +38,156 @@
     <Filter Include="Plugins">
       <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Plugins\CommonGame">
+      <UniqueIdentifier>{E1E239CD-53BC-3B92-8DE7-AD14CF3D2557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CommonGame\Source">
+      <UniqueIdentifier>{38A194BF-B69F-3709-A5F4-B4EDA2B5B5F9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CommonGame\Source\CommonGame.Build.cs">
+      <Filter>Plugins\CommonGame\Source</Filter>
+    </None>
+    <Filter Include="Plugins\CommonGame\Source\Private">
+      <UniqueIdentifier>{5B0BCB3E-C987-3E6F-9319-75EA8AF4C53E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\CommonGameInstance.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\CommonGameModule.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\CommonLocalPlayer.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\CommonPlayerController.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\CommonPlayerInputKey.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\CommonUIExtensions.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\GameUIManagerSubsystem.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\GameUIPolicy.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\LogCommonGame.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Private\LogCommonGame.h">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\PrimaryGameLayout.cpp">
+      <Filter>Plugins\CommonGame\Source\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CommonGame\Source\Private\Actions">
+      <UniqueIdentifier>{D64C553B-0901-3224-8FA0-F5D214C1032B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\Actions\AsyncAction_CreateWidgetAsync.cpp">
+      <Filter>Plugins\CommonGame\Source\Private\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\Actions\AsyncAction_PushContentToLayerForPlayer.cpp">
+      <Filter>Plugins\CommonGame\Source\Private\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\Actions\AsyncAction_ShowConfirmation.cpp">
+      <Filter>Plugins\CommonGame\Source\Private\Actions</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CommonGame\Source\Private\Messaging">
+      <UniqueIdentifier>{90C1FC57-080E-396F-B587-CC56EBCA9C62}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\Messaging\CommonGameDialog.cpp">
+      <Filter>Plugins\CommonGame\Source\Private\Messaging</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CommonGame\Source\Private\Messaging\CommonMessagingSubsystem.cpp">
+      <Filter>Plugins\CommonGame\Source\Private\Messaging</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CommonGame\Source\Public">
+      <UniqueIdentifier>{2A893F07-2A83-35C7-9C69-814A019755CF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\CommonGameInstance.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\CommonLocalPlayer.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\CommonPlayerController.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\CommonPlayerInputKey.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\CommonUIExtensions.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\GameUIManagerSubsystem.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\GameUIPolicy.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\PrimaryGameLayout.h">
+      <Filter>Plugins\CommonGame\Source\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CommonGame\Source\Public\Actions">
+      <UniqueIdentifier>{94DB1903-781A-3BC3-A573-2232AF76BA4F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\Actions\AsyncAction_CreateWidgetAsync.h">
+      <Filter>Plugins\CommonGame\Source\Public\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\Actions\AsyncAction_PushContentToLayerForPlayer.h">
+      <Filter>Plugins\CommonGame\Source\Public\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\Actions\AsyncAction_ShowConfirmation.h">
+      <Filter>Plugins\CommonGame\Source\Public\Actions</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CommonGame\Source\Public\Messaging">
+      <UniqueIdentifier>{29A3035A-843A-3BAF-975F-CCF4B6DD656C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\Messaging\CommonGameDialog.h">
+      <Filter>Plugins\CommonGame\Source\Public\Messaging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CommonGame\Source\Public\Messaging\CommonMessagingSubsystem.h">
+      <Filter>Plugins\CommonGame\Source\Public\Messaging</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CommonGame\CommonGame.uplugin">
+      <Filter>Plugins\CommonGame</Filter>
+    </None>
     <Filter Include="Plugins\CommonUser">
       <UniqueIdentifier>{8716E485-BC4A-3B38-8F39-874ACA390677}</UniqueIdentifier>
     </Filter>
+    <None Include="..\..\Plugins\CommonUser\CommonUser.uplugin">
+      <Filter>Plugins\CommonUser</Filter>
+    </None>
+    <Filter Include="Plugins\CommonUser\Resources">
+      <UniqueIdentifier>{244EABB8-94D5-3428-81D6-CF7BA7F27A69}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CommonUser\Resources\Icon128.png">
+      <Filter>Plugins\CommonUser\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\Developer">
+      <UniqueIdentifier>{8C4F47D8-F426-305E-8C3A-DF95C88941A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Developer\RiderLink">
+      <UniqueIdentifier>{61EB86CF-BE45-31F7-9C49-D7B0CE8F4902}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Developer\RiderLink\RiderLink.uplugin">
+      <Filter>Plugins\Developer\RiderLink</Filter>
+    </None>
+    <Filter Include="Plugins\Developer\RiderLink\Resources">
+      <UniqueIdentifier>{7CBE9862-F54C-3E90-92CD-9F0833955C89}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Developer\RiderLink\Resources\Icon128.png">
+      <Filter>Plugins\Developer\RiderLink\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\ModularGameplayActors">
+      <UniqueIdentifier>{E25759FB-664C-355F-8250-88BB112CE4AF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ModularGameplayActors\ModularGameplayActors.uplugin">
+      <Filter>Plugins\ModularGameplayActors</Filter>
+    </None>
     <Filter Include="Plugins\CommonUser\Source">
       <UniqueIdentifier>{EEB044F2-392C-3506-9A79-6AB8BD3A1A6C}</UniqueIdentifier>
     </Filter>
@@ -83,36 +230,6 @@
     <ClInclude Include="..\..\Plugins\CommonUser\Source\CommonUser\Public\CommonUserTypes.h">
       <Filter>Plugins\CommonUser\Source\CommonUser\Public</Filter>
     </ClInclude>
-    <None Include="..\..\Plugins\CommonUser\CommonUser.uplugin">
-      <Filter>Plugins\CommonUser</Filter>
-    </None>
-    <Filter Include="Plugins\CommonUser\Resources">
-      <UniqueIdentifier>{244EABB8-94D5-3428-81D6-CF7BA7F27A69}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\CommonUser\Resources\Icon128.png">
-      <Filter>Plugins\CommonUser\Resources</Filter>
-    </None>
-    <Filter Include="Plugins\Developer">
-      <UniqueIdentifier>{8C4F47D8-F426-305E-8C3A-DF95C88941A0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\Developer\RiderLink">
-      <UniqueIdentifier>{61EB86CF-BE45-31F7-9C49-D7B0CE8F4902}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\Developer\RiderLink\RiderLink.uplugin">
-      <Filter>Plugins\Developer\RiderLink</Filter>
-    </None>
-    <Filter Include="Plugins\Developer\RiderLink\Resources">
-      <UniqueIdentifier>{7CBE9862-F54C-3E90-92CD-9F0833955C89}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\Developer\RiderLink\Resources\Icon128.png">
-      <Filter>Plugins\Developer\RiderLink\Resources</Filter>
-    </None>
-    <Filter Include="Plugins\ModularGameplayActors">
-      <UniqueIdentifier>{E25759FB-664C-355F-8250-88BB112CE4AF}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\ModularGameplayActors\ModularGameplayActors.uplugin">
-      <Filter>Plugins\ModularGameplayActors</Filter>
-    </None>
     <Filter Include="Plugins\Developer\RiderLink\Source">
       <UniqueIdentifier>{15EDB6CC-7305-326A-9226-F301BC3D2DC4}</UniqueIdentifier>
     </Filter>
@@ -1538,19 +1655,19 @@
     <Filter Include="Source\ElementLife\UI">
       <UniqueIdentifier>{7D060244-B9FE-398E-BB4D-C563DBF9E51C}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ElementLife\UI\LyraActivatableWidget.cpp">
+    <ClCompile Include="..\..\Source\ElementLife\UI\LifeActivatableWidget.cpp">
       <Filter>Source\ElementLife\UI</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\UI\LyraActivatableWidget.h">
+    <ClInclude Include="..\..\Source\ElementLife\UI\LifeActivatableWidget.h">
       <Filter>Source\ElementLife\UI</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\UI\Foundation">
       <UniqueIdentifier>{0CD46052-40B4-395C-9185-9C3E9973F5A1}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ElementLife\UI\Foundation\LyraButtonBase.cpp">
+    <ClCompile Include="..\..\Source\ElementLife\UI\Foundation\LifeButtonBase.cpp">
       <Filter>Source\ElementLife\UI\Foundation</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\ElementLife\UI\Foundation\LyraButtonBase.h">
+    <ClInclude Include="..\..\Source\ElementLife\UI\Foundation\LifeButtonBase.h">
       <Filter>Source\ElementLife\UI\Foundation</Filter>
     </ClInclude>
   </ItemGroup>

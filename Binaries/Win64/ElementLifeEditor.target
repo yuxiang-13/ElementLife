@@ -33,6 +33,18 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/CommonGame/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CommonGame/Binaries/Win64/UnrealEditor-CommonGame.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CommonGame/Binaries/Win64/UnrealEditor-CommonGame.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/CommonUser/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -1398,6 +1410,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-HTTPServer.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-Icmp.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-Icmp.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -5077,6 +5097,74 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Hotfix.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Hotfix.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Lobby.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Lobby.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-LoginFlow.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-LoginFlow.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Party.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Party.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-PatchCheck.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-PatchCheck.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-PlayTimeLimit.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-PlayTimeLimit.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Qos.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Qos.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Rejoin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/Binaries/Win64/UnrealEditor-Rejoin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Online/OnlineSubsystem/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
@@ -5736,6 +5824,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/ElementLife.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/CommonGame/CommonGame.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -26512,6 +26604,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Online/OnlineBase/OnlineBase.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Online/OnlineFramework/OnlineFramework.uplugin",
 			"Type": "UFS"
 		},
 		{

@@ -32,6 +32,7 @@ public class ElementLife : ModuleRules
 				"ReplicationGraph",
 				"GameFeatures",
 				"SignificanceManager",
+				"CommonGame",
 				"ControlFlows"
 			}
 		);

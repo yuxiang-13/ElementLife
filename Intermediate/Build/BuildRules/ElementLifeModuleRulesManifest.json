@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"D:\\project\\ElementLife\\Source\\ElementLife\\ElementLife.Build.cs",
+		"D:\\project\\ElementLife\\Plugins\\CommonGame\\Source\\CommonGame.Build.cs",
 		"D:\\project\\ElementLife\\Plugins\\CommonUser\\Source\\CommonUser\\CommonUser.Build.cs",
 		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
 		"D:\\project\\ElementLife\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
