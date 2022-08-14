@@ -1535,5 +1535,23 @@
     <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeUserFacingExperienceDefinition.h">
       <Filter>Source\ElementLife\GameModes</Filter>
     </ClInclude>
+    <Filter Include="Source\ElementLife\UI">
+      <UniqueIdentifier>{7D060244-B9FE-398E-BB4D-C563DBF9E51C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\UI\LyraActivatableWidget.cpp">
+      <Filter>Source\ElementLife\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\UI\LyraActivatableWidget.h">
+      <Filter>Source\ElementLife\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\UI\Foundation">
+      <UniqueIdentifier>{0CD46052-40B4-395C-9185-9C3E9973F5A1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\UI\Foundation\LyraButtonBase.cpp">
+      <Filter>Source\ElementLife\UI\Foundation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\UI\Foundation\LyraButtonBase.h">
+      <Filter>Source\ElementLife\UI\Foundation</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,6 +1,8 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "LifeUserFacingExperienceDefinition.h"
+
+#include "CommonSessionSubsystem.h"
 #include "CommonSessionSubsystem.h"
 
 UCommonSession_HostSessionRequest* ULifeUserFacingExperienceDefinition::CreateHostingRequest() const
