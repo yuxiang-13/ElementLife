@@ -64,251 +64,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb1c465-2adc-4390-b176-ba3c1758636e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Audio/AttenuationPresets/ATT_Default.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/Application_Focused.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/Music.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/Overall.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/RenderedCinematics.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/SFX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/UI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Classes/VoiceChat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Effects/SubmixEffects/CREV_1978_LargeRoom.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Effects/SubmixEffects/FLT_EarlyReflections.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Effects/SubmixEffects/FLT_EarlyReflectionsHPF.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Effects/SubmixEffects/TAP_EarlyReflections.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Impulses/1978_LargeRoom_IR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/MetaSounds/sfx_RandomStereo_nl_meta.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ControlBuses/CB_Cinematics.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ControlBuses/CB_Main.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ControlBuses/CB_Music.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ControlBuses/CB_SFX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ControlBuses/CB_UI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ControlBuses/CB_VoiceChat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ParameterPatches/PP_DefaultCinematics.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ParameterPatches/PP_DefaultMusic.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ParameterPatches/PP_DefaultOverall.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ParameterPatches/PP_DefaultSFX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ParameterPatches/PP_DefaultUI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Modulation/ParameterPatches/PP_DefaultVoiceChat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_03.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_04.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_05.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_06.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_07.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_08.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_09.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_10.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/SoundWaves/Foley/SFX_Footstep_BaseLayer_11.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Sounds/UI/Lyra_UI_Lobby_Highlight_01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Sounds/UI/Lyra_UI_Lobby_Highlight_02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Sounds/UI/Lyra_UI_Lobby_Select.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Sounds/UI/sfx_UI_Lobby_Highlight_nl_meta_Preset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Sounds/UI/sfx_UI_Lobby_Select_nl_meta_Preset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/EarlyReflectionsSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/MainSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/MusicSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/ReverbSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/SFXSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/SendEffectSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/UISubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Audio/Submixes/VoiceSubmix.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/B_LyraGameInstance.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Shared/CA_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Characters/Heroes/Mannequin/Textures/Shared/ChromaticCurve.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/EffectTypes/EffectType_World_Placeable.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/MaterialFunctions/MF_AnimatedSquareTexture.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Materials/PickUp/M_GunPad_Pixels.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Materials/PickUp/M_GunPickup_Rings.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Materials/PickUp/M_Pad_Beam.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Materials/PickUp/M_Pad_Graphics_Diffus_Core.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Materials/PickUp/M_Pads_CubeTrails.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Meshes/Cube.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Particles/Item/NS_GunPad.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Textures/Cutouts/T_cutout_gradient_vertical.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Effects/Textures/General/squares.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/System/DefaultEditorMap/B_TeleportToUserFacingExperience_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Foundation/Buttons/ButtonStyle-Clear.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/W_LyraExperienceTileButton_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Generic/Materials/M_InternalShapeGlow.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Generic/Textures/T_NoiseSpeckle_01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Spawnpad/Material/MI_InternalShapeGlow.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Spawnpad/Material/MI_InternalShapeGlow_Circle.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Spawnpad/Material/M_MetalChroma_LaunchPad.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Spawnpad/Mesh/SM_launchpad_Round.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Weapons/Spawnpad/Texture/T_LaunchPadShape.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Binaries/Win64/UnrealEditor-CommonGame.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Binaries/Win64/UnrealEditor-CommonGame.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Binaries/Win64/UnrealEditor.modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/CommonGame.uplugin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Definitions.CommonGame.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Definitions.CommonGame.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/LiveCodingInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.gen.cpp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.gen.cpp.obj.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.gen.cpp.obj.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/Module.CommonGame.gen.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.dll.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.lib.response.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Development/CommonGame/UnrealEditor-CommonGame.suppressed.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/AsyncAction_CreateWidgetAsync.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/AsyncAction_CreateWidgetAsync.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/AsyncAction_PushContentToLayerForPlayer.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/AsyncAction_PushContentToLayerForPlayer.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/AsyncAction_ShowConfirmation.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/AsyncAction_ShowConfirmation.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGame.init.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameClasses.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameDialog.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameDialog.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameInstance.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonGameInstance.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonLocalPlayer.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonLocalPlayer.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonMessagingSubsystem.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonMessagingSubsystem.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonPlayerController.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonPlayerController.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonPlayerInputKey.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonPlayerInputKey.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonUIExtensions.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/CommonUIExtensions.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/GameUIManagerSubsystem.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/GameUIManagerSubsystem.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/GameUIPolicy.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/GameUIPolicy.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/PrimaryGameLayout.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/PrimaryGameLayout.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Intermediate/Build/Win64/UnrealEditor/Inc/CommonGame/Timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/CommonGame.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/Actions/AsyncAction_CreateWidgetAsync.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/Actions/AsyncAction_PushContentToLayerForPlayer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/Actions/AsyncAction_ShowConfirmation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/CommonGameInstance.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/CommonGameModule.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/CommonLocalPlayer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/CommonPlayerController.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/CommonPlayerInputKey.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/CommonUIExtensions.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/GameUIManagerSubsystem.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/GameUIPolicy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/LogCommonGame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/LogCommonGame.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/Messaging/CommonGameDialog.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/Messaging/CommonMessagingSubsystem.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Private/PrimaryGameLayout.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/Actions/AsyncAction_CreateWidgetAsync.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/Actions/AsyncAction_PushContentToLayerForPlayer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/Actions/AsyncAction_ShowConfirmation.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonGameInstance.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonLocalPlayer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonPlayerController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonPlayerInputKey.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/CommonUIExtensions.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/GameUIManagerSubsystem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/GameUIPolicy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/Messaging/CommonGameDialog.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/Messaging/CommonMessagingSubsystem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/CommonGame/Source/Public/PrimaryGameLayout.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-283E7722421110081D22A4BFCD90ED57/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-3CB00B434F15591F1D2837880A4BFE4B/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-57D583E741A6EDF5BF60BEB981A3D666/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-956244CF424E41516A70A08ECED3A390/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-956244CF424E41516A70A08ECED3A390_0000/CrashContext.runtime-xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-956244CF424E41516A70A08ECED3A390_0000/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-956244CF424E41516A70A08ECED3A390_0000/ElementLife.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-956244CF424E41516A70A08ECED3A390_0000/UEMinidump.dmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.17.04.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.24.33.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.26.32.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.14-03.48.54.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-11.24.42.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-11.55.19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-11.59.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Foundation/LoadingScreen/W_LoadingScreen_DefaultContent.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Foundation/LoadingScreen/W_LyraLogo_LoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_DefaultLoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_LoadingSymbol.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_LoadingSymbol_Sine.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_LoadingSymbol_Sine_DefaultLoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo_DefaultLoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo_Glow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo_Glow_DefaultLoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo_SoftGlow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo_SoftGlow_DefaultLoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/MI_UI_Logo_SoftGlow_Loading.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/M_UI_Base_LoadingSymbol.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/M_UI_Base_Logo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/T_UI_LyraLogo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UI/Menu/Art/T_UI_LyraLogo_2K.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-14.19.14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-14.19.50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-14.21.04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-14.25.40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2022.08.14-14.28.12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Character/LifePawnData.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/Character/LifePawnData.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameModes/LifeExperienceActionSet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameModes/LifeExperienceActionSet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameModes/LifeExperienceDefinition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ElementLife/GameModes/LifeExperienceDefinition.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementLife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementLife/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/ElementLifeEditor.target" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/ElementLifeEditor.target" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-ElementLife.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Menu/Experiences/W_ExperienceTile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu/Experiences/W_ExperienceTile.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Menu/W_LyraExperienceTileButton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu/W_LyraExperienceTileButton.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRules.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/ElementLifeModuleRulesManifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/ElementLifeEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/ElementLifeEditor.uhtmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/EngineMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/EngineMetadata.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/Makefile.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/TargetMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/TargetMetadata.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/Definitions.ElementLife.h.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLife.init.gen.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/ElementLifeGameMode.gen.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeActivatableWidget.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeButtonBase.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/LifeUserFacingExperienceDefinition.gen.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.dll.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Development/ElementLife/UnrealEditor-ElementLife.lib.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/ElementLife/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/ElementLife.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/ElementLife.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ElementLifeEditor/Development/Makefile.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/ElementLife.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/ModularGameplayActors/Intermediate/Build/Win64/UnrealEditor/Inc/ModularGameplayActors/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/ModularGameplayActors/Intermediate/Build/Win64/UnrealEditor/Inc/ModularGameplayActors/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.13-16.07.38.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.13-16.08.20.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.13-16.08.57.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife-backup-2022.08.13-16.09.44.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/ElementLife.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/ElementLife.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ElementLife/ElementLife.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ElementLife/ElementLife.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22321,6 +22110,7 @@
       <workItem from="1660445875696" duration="324000" />
       <workItem from="1660448424110" duration="9000" />
       <workItem from="1660449284355" duration="366000" />
+      <workItem from="1660457902857" duration="700000" />
     </task>
     <servers />
   </component>

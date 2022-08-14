@@ -1643,14 +1643,68 @@
     <ClInclude Include="..\..\Source\ElementLife\ElementLifeGameMode.h">
       <Filter>Source\ElementLife</Filter>
     </ClInclude>
+    <Filter Include="Source\ElementLife\AbilitySystem">
+      <UniqueIdentifier>{186DAFB4-956C-3ECC-8873-A764ED10E412}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilitySet.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilitySet.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilityTagRelationshipMapping.cpp">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\AbilitySystem\LyraAbilityTagRelationshipMapping.h">
+      <Filter>Source\ElementLife\AbilitySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Camera">
+      <UniqueIdentifier>{7E0973AE-00BA-32D3-AC43-721F29961D80}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Camera\LyraCameraMode.cpp">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Camera\LyraCameraMode.h">
+      <Filter>Source\ElementLife\Camera</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Character">
+      <UniqueIdentifier>{46933F8F-F070-3326-B8CF-88B5D3CD90F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Character\LifePawnData.cpp">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Character\LifePawnData.h">
+      <Filter>Source\ElementLife\Character</Filter>
+    </ClInclude>
     <Filter Include="Source\ElementLife\GameModes">
       <UniqueIdentifier>{DCAA4FCC-A6E2-3BE1-A9B6-D039CF42DFC8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeExperienceActionSet.cpp">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeExperienceActionSet.h">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeExperienceDefinition.cpp">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeExperienceDefinition.h">
+      <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ElementLife\GameModes\LifeUserFacingExperienceDefinition.cpp">
       <Filter>Source\ElementLife\GameModes</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ElementLife\GameModes\LifeUserFacingExperienceDefinition.h">
       <Filter>Source\ElementLife\GameModes</Filter>
+    </ClInclude>
+    <Filter Include="Source\ElementLife\Input">
+      <UniqueIdentifier>{D1BB0E0D-9F66-397D-AE84-C89E1AEE0CF7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ElementLife\Input\LyraInputConfig.cpp">
+      <Filter>Source\ElementLife\Input</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ElementLife\Input\LyraInputConfig.h">
+      <Filter>Source\ElementLife\Input</Filter>
     </ClInclude>
     <Filter Include="Source\ElementLife\UI">
       <UniqueIdentifier>{7D060244-B9FE-398E-BB4D-C563DBF9E51C}</UniqueIdentifier>
